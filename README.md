@@ -3,24 +3,24 @@ An application utilizing LangChain and the OpenAI API to index pdfs and act as a
 
 # project structure
 
-project/
-│
-├── data/
-│   ├── pdfs/
-│   └── indexed_data/
-│
-├── src/
-│   ├── preprocess.py
-│   ├── index.py
-│   ├── search.py
-│   ├── teach.py (optional)
-│   └── main.py
-│
-├── ui/ (optional)
-│   ├── templates/
-│   └── static/
-│
-├── requirements.txt
-└── README.md
+project/  
+│  
+├── data/  
+│   ├── pdfs/  
+│   └── indexed_data/  
+│  
+├── src/  
+│   ├── preprocess.py  
+│   ├── index.py  
+│   ├── search.py  
+│   ├── teach.py (optional)  
+│   └── main.py  
+│  
+├── ui/ (optional)  
+│   ├── templates/  
+│   └── static/  
+│  
+├── requirements.txt  
+└── README.md  
 
 
